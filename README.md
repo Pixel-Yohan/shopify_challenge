@@ -11,6 +11,7 @@ Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker
 ## Shopify Challenge Quesiton 2 (SQL)
 
 **a) How many orders were shipped by Speedy Express in total?** 
+
 **Answer: 54**
 ```SQL
 SELECT COUNT(ShipperID) FROM (
@@ -21,6 +22,7 @@ SELECT COUNT(ShipperID) FROM (
 WHERE ShipperID = 1;
 ```
 **b) What is the last name of the employee with the most orders?**
+
 **Answer: Peacock (40 orders)**
 ```SQL
 SELECT LastName, MAX (ordercount)
