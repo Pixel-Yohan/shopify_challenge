@@ -9,7 +9,7 @@ Answer: The Median would be a better metric as it's not prone to skewing at real
 
 **c) What is its value?**
 
-Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker compared to the AOV of $3145.13
+Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker compared to the AOV of $3145.13 I wrote a simple Python program to showcase how to obtain the Median using the built in libraries.
 
 ## Shopify Challenge Quesiton 2 (SQL)
 
