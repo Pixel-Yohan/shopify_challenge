@@ -1,11 +1,14 @@
 ## Shopify Challenge Question 1
 **a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.**
+
 Answer: Because the average of the orders is being taken the data is skewing tailside towards the big orders. A better way to evaluate this data is by taking the median of all order amounts.
 
 **b) What metric would you report for this dataset?**
+
 Answer: The Median would be a better metric as it's not prone to skewing at really large or really small tailsides. 
 
 **c) What is its value?**
+
 Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker compared to the AOV of $3145.13
 
 ## Shopify Challenge Quesiton 2 (SQL)
