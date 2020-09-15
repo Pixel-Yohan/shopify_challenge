@@ -4,6 +4,7 @@ Answer: Because the average of the orders is being taken the data is skewing tai
 
 **b) What metric would you report for this dataset?**
 Answer: The Median would be a better metric as it's not prone to skewing at really large or really small tailsides. 
+
 **c) What is its value?**
 Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker compared to the AOV of $3145.13
 
