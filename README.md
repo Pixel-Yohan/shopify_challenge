@@ -11,7 +11,6 @@ Answer: $284.0/per order amount which sounds a lot more reasonable for a sneaker
 
 **a) How many orders were shipped by Speedy Express in total?** 
 **Answer: 54**
-SQL Query: 
 ```SQL
 SELECT COUNT(ShipperID) FROM (
 	SELECT Shippers.ShipperID, Orders.ShipperID, Orders.OrderID, Shippers.ShipperName
